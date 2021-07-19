@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PriscillaStephan
-- 👀 I’m interested in Developing cool Apps and Websites 
+- 🔍 I'm a full time QA Automation Engineer,
+- 👀 I’m interested in Testing & Developing cool Apps and Websites 
 - 🌱 I’m currently learning React technology
 - 📫 How to reach me? email me using priscilla.estephan@gmail.com :) 
 <!---
