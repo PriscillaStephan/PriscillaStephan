@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @PriscillaStephan
-- 🔍 I'm a full time QA Automation Engineer,
+- 💻 SDET with a passion for creating high quality software.
+- 🔍 I'm a full time Software Test Engineer,
 - 👀 I’m interested in Testing & Developing cool Apps and Websites 
-- 🌱 I’m currently learning React technology
+- 🌱 I’m currently learning React technology!
+- 💡  Fun fact: I'm a Rubik's cube solver 
 - 📫 How to reach me? email me using priscilla.estephan@gmail.com :) 
 - 🏁 Check My Portfolio https://priscillastephan.netlify.app/
 <!---
